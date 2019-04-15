@@ -12,7 +12,7 @@
     <title>Cálculo del factorial</title>
 </head>
 <body>
-    <h1>Cálculo del factorial</h1>
+    <h1>Cálculo del factorial (con cambio en github)</h1>
     <form action="prueba.jsp" method="get">
         <p>Número: <input type="text" name="numero">
         <input type="submit" value="Calcular"></p>        
